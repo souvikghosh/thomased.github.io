@@ -5,7 +5,7 @@ title:
 
 ### Colour polymorphic lures
 
-The maintenance of adaptive genetic variation is a classic problem in evolutionary biology. Colour polymorphisms – multiple, discrete coloured forms within a species – offer a simple visual tool with which to explore the evolutionary processes that maintain variation. My PhD research is focused on the potential for ‘sensory drive’ to generate and maintain polymorphism in a poorly understood class of visual signal: prey lures. Drawing on spiders that use conspicuous colours to attract prey, such as the exuberant Gasteracantha spp., I am working to better understand the evolution of this striking feature of the natural world.
+The maintenance of adaptive genetic variation is a classic problem in evolutionary biology. Colour polymorphisms – multiple, discrete coloured forms within a species – offer a simple visual tool with which to explore the evolutionary processes that maintain variation. My PhD research is focused on the potential for ‘sensory drive’ to generate and maintain polymorphism in a poorly understood class of visual signal: prey lures. Drawing on spiders that use conspicuous colours to attract prey, such as the exuberant _Gasteracantha_ spp., I am working to better understand the evolution of this striking feature of the natural world.
 
 ### Iridescence
 

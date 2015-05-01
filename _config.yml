@@ -13,7 +13,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Thomas E. White
+title: Thomas White
 subtitle: Evolution // Ecology // Behaviour
 
 # Short description of your site
@@ -39,7 +39,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Thomas E. White
+  name: Thomas White
   email: "thomas.white@mq.edu.au"
   github: thomased    # eg. daattali
   twitter: tomedwhite   # eg. daattali  
