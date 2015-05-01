@@ -8,4 +8,4 @@ I am a PhD candidate in the labs of [Darrell Kemp](http://www.evolutionaryecolog
 
 My current research is focused on the evolution of visual signalling systems. I mainly use invertebrates, both in recognition of the enormous portion of biological diversity they represent, and for the intriguing opportunities afforded by non-model organisms.
 
-You can find my e-mail and social media links at the bottom of each page. Feel free to get in touch!
+My contact details are at the bottom of each page, feel free to get in touch!
