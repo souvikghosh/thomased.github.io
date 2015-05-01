@@ -2,7 +2,7 @@
 layout: page
 title:
 ---
-## About me
+### About me
 
 I am a PhD candidate in the labs of [Darrell Kemp](http://www.evolutionaryecologymq.com/) and [Marie Herberstein](https://sites.google.com/site/behaviouralecologymacquarie/) at Macquarie University. I am interested in addressing evolutionary questions through the study of visual and behavioural ecology.
 
