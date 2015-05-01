@@ -15,7 +15,7 @@ Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) Sexua
 
 Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution: comment on Kelley & Kelley 2013. _Behavioural Ecology_ 25(3), 467-468. [link](http://dx.doi.org/10.1093/beheco/aru012) - [pdf]({{ site.url }}/papers/kemp_2014_exploring.pdf)
 
-**White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration. _Australian Journal of Zoology_ 60(2), 101-107. [link](http://dx.doi.org/10.1071/ZO12045) - [pdf]({{ site.url }}/papers/white_2012_nano.pdf) - [DATA](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985)
+**White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration. _Australian Journal of Zoology_ 60(2), 101-107. [link](http://dx.doi.org/10.1071/ZO12045) - [pdf]({{ site.url }}/papers/white_2012_nano.pdf) - [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985)
 
 #### Other:
 
