@@ -5,7 +5,7 @@ title:
 
 ### Presentations
 
-**White TE**, Kemp DJ (forthcoming) Colour polymorphic lures target different visual channels in prey. 
+**White TE**, Kemp DJ (forthcoming) Colour polymorphic lures target different visual channels in prey. _Behaviour 2015_, Cairns, Australia.
 
 **White TE**, Herberstein ME, Kemp DJ (2014) Technicolour deceit: sensory drive and the evolution of colour-polymorphic prey lures. _International Society for Behavioural Ecology_, New York, USA. [slides](http://dx.doi.org/10.6084/m9.figshare.1246146)
 
