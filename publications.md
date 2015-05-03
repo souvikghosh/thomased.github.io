@@ -19,11 +19,11 @@ Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution
 
 #### Other:
 
-The Behavioural Ecology and Evolution Podcast (_Beepcast_; July 2014) [link](http://thebeepcast.blogspot.com/2014/08/beepcast-july-2014.html)
+The Behavioural Ecology and Evolution Podcast (_Beepcast_; July 2014). [link](http://thebeepcast.blogspot.com/2014/08/beepcast-july-2014.html)
 
 The Science of Eurovision! (2014) [video](http://www.sbs.com.au/news/article/2014/05/06/scientists-analyse-paradox-eurovision) - [blog](http://thescienceofeurovision.wordpress.com/)
 
-White TE (2013) Book review: Sensory Ecology, Behaviour, & Evolution (Stevens, M). _ISBE Newsletter_ 25(2) [pdf](https://docs.google.com/uc?export=download&id=0BzLI1jZMpYylMGVZNGdoWms2WWs)
+White TE (2013) Book review: Sensory Ecology, Behaviour, & Evolution (Stevens, M). _ISBE Newsletter_ 25(2). [pdf](https://docs.google.com/uc?export=download&id=0BzLI1jZMpYylMGVZNGdoWms2WWs)
 
 White TE (2013) Birds of a feather create new species together – and here’s how. _The Conversation_, 25 June. [link](http://bit.ly/17yxufr)
 
