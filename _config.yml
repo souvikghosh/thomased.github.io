@@ -41,8 +41,10 @@ navbar-links:
 author:
   name: Thomas White
   email: "thomas.white@mq.edu.au"
-  github: thomased    # eg. daattali
-  twitter: tomedwhite   # eg. daattali  
+  github: thomased
+  twitter: tomedwhite   
+  #linkedin: "pub/dean-attali/8/946/143"
+  
  
 # Select which links to show in the footer
 footer-links-active:
