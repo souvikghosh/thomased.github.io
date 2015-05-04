@@ -10,7 +10,7 @@ title:
 **White TE**, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL. (in press) Reproducible research in the study of biological colouration. _Animal Behaviour._
 
 **White TE**, Zeil J, Kemp DJ (2015) Signal design and courtship presentation coincide for highly biased delivery of an iridescent butterfly mating signal. _Evolution_ 69(1), 14-25.  
-[link](http://dx.doi.org/10.1111/evo.12551) | [pdf]({{ site.url }}/papers/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v). | <span class="altmetric-embed" data-badge-type="2" data-hide-no-mentions="true" data-badge-popover="bottom" data-doi="10.1111/evo.12551"></span>  
+[link](http://dx.doi.org/10.1111/evo.12551) | [pdf]({{ site.url }}/papers/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v) | <span class="altmetric-embed" data-badge-type="2" data-hide-no-mentions="true" data-badge-popover="bottom" data-doi="10.1111/evo.12551"></span>  
 ***Coverage:*** [F1000](http://dx.doi.org/10.3410/f.725363794.793504390%20) 
 
 Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) Sexual signals for the colour-blind: cryptic female mantids signal quality through brightness. _Functional Ecology_ 29(4), 531-539.  
