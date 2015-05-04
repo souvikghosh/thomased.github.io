@@ -14,7 +14,7 @@ title:
 ***Coverage:*** [F1000](http://dx.doi.org/10.3410/f.725363794.793504390%20) 
 
 Barry KL, **White TE**, Rathnayake DA, Fabricant SE, Herberstein ME (2014) Sexual signals for the colour-blind: cryptic female mantids signal quality through brightness. _Functional Ecology_ 29(4), 531-539.  
-[link](http://dx.doi.org/10.1111/1365-2435.12363) - [pdf]({{ site.url }}/papers/barry_2014_sexual.pdf) - [supp]({{ site.url }}/papers/barry_2014_sexual_supp.pdf) - [data](http://dx.doi.org/10.5061/dryad.3hk2v) - <span class="altmetric-embed" data-badge-type="2" data-hide-no-mentions="true" data-badge-popover="bottom" data-doi="10.1111/1365-2435.12363"></span>  
+[link](http://dx.doi.org/10.1111/1365-2435.12363) - [pdf]({{ site.url }}/papers/barry_2014_sexual.pdf) - [data](http://dx.doi.org/10.5061/dryad.3hk2v) - <span class="altmetric-embed" data-badge-type="2" data-hide-no-mentions="true" data-badge-popover="bottom" data-doi="10.1111/1365-2435.12363"></span>  
 ***Coverage:*** [Sydney Morning Herald]({{ site.url }}/papers/barry_2014_sexual_smh.pdf), [Phys.org]({{ site.url }}/papers/barry_2014_sexual_phys.pdf)
 
 Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution: comment on Kelley & Kelley 2013. _Behavioural Ecology_ 25(3), 467-468.  
