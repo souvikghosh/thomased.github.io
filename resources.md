@@ -5,7 +5,7 @@ title:
 
 ### Resources
 
-If you're interested in sensory ecology and the study of colour, there is a [directory](http://colsci.weebly.com/contact.html) of labs and people that work in the field, along with a public [google+](https://plus.google.com/communities/104374731636651934177) group that occasionally meets to chat about papers. There's a very active community on twitter, including a bot for the latest [papers](https://twitter.com/colsci_papers), and a [hashtag](https://twitter.com/#colsci).
+If you're interested in sensory ecology and the study of colour, there is a [directory](http://colsci.weebly.com/contact.html) of labs and people that work in the field, along with a public [google+](https://plus.google.com/communities/104374731636651934177) group that occasionally meets to chat about papers. There's a very active community on twitter, including a [bot](https://twitter.com/colsci_papers) for the latest papers, and a [hashtag](https://twitter.com/#colsci).
 
 #### Miscellanea
 

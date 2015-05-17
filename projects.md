@@ -13,4 +13,4 @@ Iridescent structural colours are the most dazzling and diverse visual displays 
 
 ### Measuring colour
 
-To understand the evolution of colour pattern diversity we need to 'see' the world as non-human animals do. I'm interested in testing and developing methods for measuring and analysing colour traits and their visual perception, which is an exciting and [rapidly growing](https://github.com/thomased/colour_methods_papers) area of research.
+To understand the evolution of colour pattern diversity we need to 'see' the world as non-human animals do. I'm interested in testing and developing methods for analysing colour traits and their visual perception, which is an exciting and [rapidly growing](https://github.com/thomased/colour_methods_papers) area of research.
