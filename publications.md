@@ -5,7 +5,7 @@ title:
 
 ### Publications
 
-**White TE**, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (in press) Reproducible research in the study of biological colouration. _Animal Behaviour._  
+**White TE**\*, Dalrymple RL\*, Noble DWA\*, O’Hanlon JC\*, Zurek DB\*, Umbers KDL\* (in press) Reproducible research in the study of biological colouration. _Animal Behaviour._  
 [repository](https://github.com/daniel1noble/colsci_rep) | <span class="altmetric-embed" data-badge-type="2" data-hide-no-mentions="true" data-badge-popover="bottom" data-doi="10.1016/j.anbehav.2015.05.007"></span>
 
 **White TE**, Kemp DJ (in press) Technicolor deceit: a sensory basis for the study of colour-based lures. _Animal Behaviour._  
