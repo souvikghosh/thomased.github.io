@@ -25,6 +25,10 @@ Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution
 **White TE**,  Macedonia J, Birch D, Dawes J, Kemp DJ (2012) The nano-anatomical basis of sexual dimorphism in iridescent butterfly colouration. _Australian Journal of Zoology_ 60(2), 101-107.  
 [link](http://dx.doi.org/10.1071/ZO12045) | [pdf]({{ site.url }}/papers/white_2012_nano.pdf) | [data](http://figshare.com/articles/Data_from_White_et_al_2012_The_nano_anatomical_basis_of_sexual_dimorphism_in_iridescent_butterfly_colouration_/897985) | <span class="altmetric-embed" data-badge-type="2" data-hide-no-mentions="true" data-badge-popover="bottom" data-doi="10.1071/ZO12045"></span>
 
+_In review:_
+
+**White TE**, Kemp DJ. (in review) Colour polymorphic lures target different visual channels in prey.
+
 #### Other:
 
 The Behavioural Ecology and Evolution Podcast (_Beepcast_; July 2014). [link](http://thebeepcast.blogspot.com/2014/08/beepcast-july-2014.html)
