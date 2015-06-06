@@ -27,7 +27,7 @@ Kemp DJ, **White TE** (2014) Exploring the perceptual canvas of signal evolution
 
 _In review:_
 
-**White TE**, Kemp DJ. (in review) Colour polymorphic lures target different visual channels in prey.
+**White TE**, Kemp DJ. Colour polymorphic lures target different visual channels in prey.
 
 #### Other:
 
