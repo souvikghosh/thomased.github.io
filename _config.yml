@@ -24,7 +24,7 @@ navbar-links:
   Publications: "publications"
   Presentations: "presentations"
   Resources: "resources"
-  Blog: 'blog'
+  Blog: 'blog.html'
 
 # --- Footer options --- #
 
