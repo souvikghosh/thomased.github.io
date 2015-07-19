@@ -19,12 +19,12 @@ avatar: "/img/avatar-icon-2.png"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "index"
+  About: ""
   Projects: "projects"
   Publications: "publications"
   Presentations: "presentations"
   Resources: "resources"
-  Blog: ""
+  Blog: "blog"
 
 # --- Footer options --- #
 
