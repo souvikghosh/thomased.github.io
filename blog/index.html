@@ -21,7 +21,7 @@ title:
     </p>
   
     <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html}}
+      {{ post.content | truncatewords: 150 | strip_html}}
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Read More</a>
     </div>
   

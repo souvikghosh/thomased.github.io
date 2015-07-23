@@ -51,7 +51,7 @@ timezone: "Australia/Sydney"
 markdown: redcarpet
 highlighter: pygments
 permalink: /:year-:month-:day-:title
-paginate: 5
+paginate: 7
 paginate_path: "/blog/page/:num"
 
 # Default YAML values (more information on Jekyll's site)
