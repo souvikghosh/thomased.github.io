@@ -5,10 +5,10 @@ title:
 
 ### Publications
 
-Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Tindall ML, Moles AT (2015) Birds, butterflies and flowers in the tropics are not more colourful than those at higher latitudes. _Global Ecology and Biogeography_  Early View.  
+Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Tindall ML, Moles AT (2015) Birds, butterflies and flowers in the tropics are not more colourful than those at higher latitudes. _Global Ecology and Biogeography_ Early View.  
 [link](http://dx.doi.org/10.1111/geb.12368) | [pdf]({{ site.url }}/papers/dalrymple_et_al_2015_life_isnt_more_colourful_in_tropics.pdf)
 
-**White TE**, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (2015) Reproducible research in the study of biological colouration. _Animal Behaviour._ 106, 51-57.  
+**White TE**, Dalrymple RL, Noble DWA, O’Hanlon JC, Zurek DB, Umbers KDL (2015) Reproducible research in the study of biological colouration. _Animal Behaviour_ 106, 51-57.  
 [link](http://dx.doi.org/10.1016/j.anbehav.2015.05.007) | [pdf]({{ site.url }}/papers/white_2015_reproducible_research.pdf) | [data + code](https://github.com/daniel1noble/colsci_rep)
 
 **White TE**, Kemp DJ (2015) Technicolor deceit: a sensory basis for the study of colour-based lures. _Animal Behaviour_ 105, 231-243.  
