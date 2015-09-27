@@ -3,8 +3,6 @@ layout: page
 title: 
 ---
 
-### Publications
-
 #### 2015 ####
 
 [Birds, butterflies and flowers in the tropics are not more colourful than those at higher latitudes](http://dx.doi.org/10.1111/geb.12368)  
