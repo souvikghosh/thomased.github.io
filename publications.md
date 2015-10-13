@@ -21,7 +21,7 @@ Dalrymple RL, Kemp DJ, Flores-Moreno H, Laffan SW, **White TE**, Hemmings FA, Ti
 [Signal design and courtship presentation coincide for highly biased delivery of an iridescent butterfly mating signal](http://dx.doi.org/10.1111/evo.12551)  
 **White TE**, Zeil J, Kemp DJ (2015) _Evolution_ 69(1), 14-25.  
 [pdf]({{ site.url }}/papers/white_2015_signal.pdf) | [data](http://dx.doi.org/10.5061/dryad.3hk2v)  
-***Coverage:*** [F1000](http://dx.doi.org/10.3410/f.725363794.793504390%20) | [2015 Phil Carne Prize](http://tinyurl.com/owrs54p)
+***Coverage:*** [F1000](http://dx.doi.org/10.3410/f.725363794.793504390%20) | [2015 Phil Carne Prize](http://tinyurl.com/owrs54p) | [_Nature_ outlook](http://dx.doi.org/10.1038/526S8a)
 
 #### 2014 ####
 
